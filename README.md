@@ -4,5 +4,5 @@ This repo contains various Jupyter notebooks containing Machine Learning exercis
 
 # Fundamentals of Machine Learning with Python
 
+<a href="https://nbviewer.jupyter.org/github/d4t4v1z/Jupyter/blob/master/notebooks/FoML-01-Simple-Linear-Regression.ipynb">Part 1 - Linear Regression</a><br/>
 
-https://nbviewer.jupyter.org/github/d4t4v1z/Jupyter/tree/master/notebooks/
